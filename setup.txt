@@ -1,0 +1,9 @@
+Environment:
+
+1. Create new git repository
+2. Clone the PSPNet-tensorflow implementation
+3. Download pretrained model weights
+4. Create new virtual environment
+5. Install required python packages (tensorflow, scipy, matplotlib)
+6. Freeze the python package versions (pip freeze) into requirements.txt in git repository.
+7. Make sure the sample inferences give the expected result
